@@ -16,7 +16,16 @@
     - "RTM8SIGSSD4N4AY"
     - "WSWPNP5AVX9IHNV"
     - "701198"
-    - "AMAZON"
+    - "AMAZON" 
+    - "5234137007"
+    - "H5EBFR3YGUUZBLL"
+    - "448791000215083"
+    - "KUULGAJGHCTHDQD"
+    - "222327000156182"
+    - "HMRDQYA8WVCI4GE"
+    - "JKBR1MPGTUTQ6LP"
+    - "XDYVYRITSMNQZBD"
+    - "CE2MDXXFHN7SLFN"
   name: Amazon
 - network_ids: ["470000087081873"]
   name: "Amazon Pay"
@@ -141,7 +150,7 @@
   name: GoDaddy
 - network_ids: ["420429000206339", "420429000203260"]
   name: AliExpress
-- network_ids: ["717074000713081","322143000713081","328953000713081"]
+- network_ids: ["717074000713081", "322143000713081", "328953000713081"]
   name: DigiKey
 - network_ids: ["000000030129860"] # Not sure how to categorize this
 - network_ids: ["W9JEIROWXKO5PEO"]
@@ -183,7 +192,7 @@
   name: Twilio SendGrid
 - network_ids: ["050300000009944", "029500000003608"]
   name: Best Buy
-- network_ids: ["968453000956037"]
+- network_ids: ["968453000956037", "79422575704"]
   name: Stamps.com
 - network_ids:
     - "112137000108778"
@@ -222,9 +231,15 @@
 - network_ids: ["012504000111695"]
   name: Lowe's
 - network_ids:
-    ["4445023503995", "4445022894923", "4445023718254", "4445023607143", "4445060804184"]
+    [
+      "4445023503995",
+      "4445022894923",
+      "4445023718254",
+      "4445023607143",
+      "4445060804184",
+    ]
   name: USPS
-- network_ids: ["000445472871992"]
+- network_ids: ["000445472871992", "000021666734000"]
   name: Vex Robotics
 - network_ids: ["000445204769993"]
   name: Dialpad
@@ -241,7 +256,7 @@
 - network_ids: ["03-8036071077"]
   name: Pirate Ship
 - network_ids: ["Q39I5NEONHREFYB"]
-- network_ids: ["68880021668228"]
+- network_ids: ["68880021668228", "000767211761881"]
   name: Goodwill
 - network_ids: ["OCYSREKSTJVUPVX"]
   name: GitHub
@@ -330,7 +345,7 @@
   name: "Contabo"
 - network_ids: ["QB8WWWTJDF1AAOO"]
   name: "Bambu Lab"
-- network_ids: ["BXPU2FTJYLKK2NG"]
+- network_ids: ["BXPU2FTJYLKK2NG", "901543746522882"]
   name: "Browserless"
 - network_ids: ["1022701"]
   name: "TFL"
@@ -344,7 +359,7 @@
   name: "Kru Coffee"
 - network_ids: ["631601401748305"]
   name: "Panera Bread"
-- network_ids: ["105139245","472721821","DE0100000306272"]
+- network_ids: ["105139245", "472721821", "DE0100000306272"]
   name: "Hetzner"
 - network_ids: ["000737075554888"]
   name: "Olive Garden"
@@ -352,13 +367,22 @@
   name: "Flipper"
 - network_ids: ["582087000392222"]
   name: "Green Mountain Transit"
-- network_ids: ["47986901", "71771081", "44458051", "72402031", "34398901", "71911251", "28440411"]
+- network_ids:
+    [
+      "47986901",
+      "71771081",
+      "44458051",
+      "72402031",
+      "34398901",
+      "71911251",
+      "28440411",
+    ]
   name: "Post Office Counter"
 - network_ids: ["XKPH71LZ3KCA8SQ"]
   name: "Uberspace"
 - network_ids: ["31431585"]
   name: "Royal Mail"
-- network_ids: ["QSIOSLPTYEWNZVR"]
+- network_ids: ["QSIOSLPTYEWNZVR", "020490666"]
   name: "dbrand"
 - network_ids: ["H6LVNPMMWPPT9VW"]
   name: "Cloudflare"
@@ -383,10 +407,14 @@
   name: "Flipkart"
 - network_ids: ["N1VWJHWU8ER01FU"]
   name: "Framework"
-- network_ids: 
+- network_ids:
     - "104276479" # PH
   name: "Shopee"
-- network_ids: 
+- network_ids:
     - "9182087924" # PH
     - "WJTYVIYBYQOXOIH" # SG
   name: "Lazada"
+  name: "Cursor"
+- network_ids: ["MZJ96QO0A3SN4BD"]
+  name: "Nothing"
+- network_ids: ["477702008315357", "ECP2LXSCPYRHNE3"]
